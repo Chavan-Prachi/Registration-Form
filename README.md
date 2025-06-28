@@ -8,9 +8,13 @@ A simple, responsive registration form built using HTML and CSS. Designed to cap
 ## 📁 Folder Structure
 
 Registration-Form/
+
 ├── docs/
+
 │ ├── index.html
+
 │ └── style.css
+
 └── README.md
 
 ## ✨ Features
